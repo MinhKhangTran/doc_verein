@@ -14,3 +14,38 @@ Fit flexitarian gatekeep mlkshk street art shabby chic PBR&B. Heirloom master cl
 Letterpress unicorn selvage, ascot big mood pork belly vexillologist affogato meggings kickstarter paleo. Small batch fixie kogi, affogato street art freegan sriracha mixtape edison bulb ascot plaid 8-bit YOLO poke. Portland tousled quinoa kale chips. Vegan biodiesel lumbersexual cliche.
 
 Yr cornhole tilde hashtag raw denim, blog same 3 wolf moon. Microdosing la croix meh marfa salvia. Keffiyeh unicorn lyft chambray plaid marfa aesthetic VHS ugh pug wolf williamsburg. Aesthetic kitsch next level selvage man bun cold-pressed.
+
+<ul className="emoji-list">
+  <li>
+  <a href="/abteilung/fußball">
+    <span>⚽️</span> Fußball
+  </a>
+  </li>
+  <li>
+   <a href="/abteilung/basketball">
+    <span>🏀</span> Basketball
+     </a>
+  </li>
+  <li>
+   <a href="/abteilung/taekwondo">
+    <span>🥋</span> Taekwondo
+     </a>
+  </li>
+  <li>
+   <a href="/abteilung/powerlifting">
+    <span>💪</span> Powerlifting
+     </a>
+  </li>
+  <li>
+   <a href="/abteilung/gewichtheben">
+    <span>🏋🏻</span> Gewichtheben
+     </a>
+  </li>
+  <li>
+   <a href="/abteilung/tennis">
+    <span>🎾</span> Tennis
+     </a>
+  </li>
+</ul>
+
+<img src="/img/intro/der-verein.jpg" alt="Bilder Collage von dem Verein" />
