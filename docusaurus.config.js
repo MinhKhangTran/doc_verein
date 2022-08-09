@@ -14,8 +14,8 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "de",
+    locales: ["de"],
   },
 
   presets: [
@@ -56,32 +56,19 @@ const config = {
             ],
           },
           {
-            title: "Community",
+            title: "Folge Uns",
             items: [
               {
-                label: "Stack Overflow",
+                label: "Instagram",
                 href: "https://stackoverflow.com/questions/tagged/docusaurus",
               },
               {
-                label: "Discord",
+                label: "Facebook",
                 href: "https://discordapp.com/invite/docusaurus",
               },
               {
-                label: "Twitter",
+                label: "TikTok",
                 href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
               },
             ],
           },
