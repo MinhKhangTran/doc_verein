@@ -10,7 +10,7 @@ const config = {
   tagline: "Dein lokaler Sportverein",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "log",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   i18n: {
