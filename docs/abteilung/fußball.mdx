@@ -5,6 +5,9 @@ title: Fußball
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
 
 I'm baby nisi woke wayfarers, ethical sriracha adipisicing kickstarter hexagon bruh. Beard 90's craft beer elit twee cardigan. Hoodie biodiesel exercitation crucifix, listicle eiusmod tousled distillery minim ut. Slow-carb subway tile bodega boys, gluten-free wolf kombucha photo booth poutine pok pok sunt banjo ethical. Biodiesel duis chambray cronut nostrud selfies. Ennui live-edge shabby chic flexitarian actually yuccie you probably haven't heard of them DSA readymade pop-up gentrify jianbing.
 
@@ -39,3 +42,37 @@ I can write **Markdown** alongside my _JSX_!
     This is a banana 🍌
   </TabItem>
 </Tabs>
+
+function HelloCodeTitle(props) {
+  return <h1>Hello, {props.name}</h1>;
+}
+
+:::note
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::tip
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::info
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::caution
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::danger
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
