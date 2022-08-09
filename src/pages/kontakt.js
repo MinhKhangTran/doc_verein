@@ -1,8 +1,12 @@
 import React from 'react';
-const Kontakt=()=> {
+import Layout from '@theme/Layout';
+  
+  const Kontakt=()=> {
     return (
-     
+     <Layout>
+
         <h1>Hello Kontakt</h1>
+     </Layout>
        
     
     );
