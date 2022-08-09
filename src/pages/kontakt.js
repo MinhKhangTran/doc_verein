@@ -1,13 +1,10 @@
-function Welcome(props) {
-    return <h1>Hello, {props.name}</h1>;
-  }
-  
-  const Kontakt=()=> {
+import React from 'react';
+const Kontakt=()=> {
     return (
-      <div>
-        <Welcome name="World, Kontakt" />
+     
+        <h1>Hello Kontakt</h1>
        
-      </div>
+    
     );
   }
   export default Kontakt;

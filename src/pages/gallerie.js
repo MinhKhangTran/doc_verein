@@ -1,13 +1,11 @@
-function Welcome(props) {
-    return <h1>Hello, {props.name}</h1>;
-  }
+import React from 'react';
   
   const Gallerie=()=> {
     return (
-      <div>
-        <Welcome name="World, Gallerie" />
+     
+        <h1>Hello Gallerie</h1>
        
-      </div>
+    
     );
   }
   export default Gallerie;
