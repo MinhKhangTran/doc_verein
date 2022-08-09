@@ -19,7 +19,6 @@ const sidebars = {
     {
       type: "category",
       label: "Abteilungen",
-      collapsed: false,
       items: [
         "abteilung/fußball",
         "abteilung/basketball",
@@ -30,8 +29,16 @@ const sidebars = {
       ],
     },
     "geschichte",
-    "gallerie",
-    "kontakt",
+    {
+      type: 'link',
+      label: 'Gallerie', // The link label
+      href: '/gallerie', // The internal path
+    },
+    {
+      type: 'link',
+      label: 'Kontakt', // The link label
+      href: '/kontakt', // The internal path
+    },
   ],
   // But you can create a sidebar manually
   /*

@@ -46,15 +46,7 @@ const config = {
       footer: {
         style: "dark",
         links: [
-          {
-            title: "Der Verein",
-            items: [
-              {
-                label: "Start",
-                to: "/docs/intro",
-              },
-            ],
-          },
+       
           {
             title: "Folge Uns",
             items: [
@@ -79,6 +71,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      docs:{
+        sidebar:{
+          hideable: true,
+        }
+      }
     }),
 };
 
