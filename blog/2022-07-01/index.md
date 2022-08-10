@@ -13,6 +13,8 @@ Ort: Böpfingen
 
 <!--truncate-->
 
+![Jährliches Sommergrillen mit den Vereinsmitgliedern](./grillen.jpg)
+
 
 ## Jährliches Sommergrillen mit den Vereinsmitgliedern
 

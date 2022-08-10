@@ -13,6 +13,8 @@ Ort: Einstein-Halle
 
 <!--truncate-->
 
+![Alljährlicher Interdisziplinärer Vereinswettkampf](./wettkampf.jpg)
+
 
 ## Alljährlicher Interdisziplinärer Vereinswettkampf 
 

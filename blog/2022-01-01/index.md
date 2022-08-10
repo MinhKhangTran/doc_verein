@@ -13,6 +13,8 @@ Ort: Burlafingen Grundschul Halle
 
 <!--truncate-->
 
+![Neujahrsparty](./neujahr.jpg)
+
 
 ## Neujahrsparty
 

@@ -13,6 +13,8 @@ Ort: Congress Centrum
 
 <!--truncate-->
 
+![Gewichtheberfasching](./gewichtheberfasching.jpg)
+
 
 ## Gewichtheberfasching
 

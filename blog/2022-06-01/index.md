@@ -13,6 +13,8 @@ Ort: Söflingen
 
 <!--truncate-->
 
+![Floßbauen für die Basketballer Aktive](./flossbauen.jpg)
+
 
 ## Floßbauen für die Basketballer Aktive
 

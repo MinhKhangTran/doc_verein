@@ -13,6 +13,7 @@ Ort: Augsburg
 
 <!--truncate-->
 
+![Bayrische Meisterschaft in Powerlifting](./powerlifting-meet.jpg)
 
 ## Bayrische Meisterschaft in Powerlifting
 

@@ -13,6 +13,7 @@ Ort: Ulm Innenstadt
 
 <!--truncate-->
 
+![Solidaritätsjoggen](./jogging.jpg)
 
 ## Solidaritätsjoggen
 
