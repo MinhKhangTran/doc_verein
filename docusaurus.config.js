@@ -27,6 +27,9 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
         },
+        blog: {
+          showReadingTime: true,
+        },
 
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -41,12 +44,14 @@ const config = {
       navbar: {
         title: "Der Verein",
 
-        items: [{ to: "/kontakt", label: "Kontakt", position: "right" }],
+        items: [
+          { to: "/blog", label: "Termine", position: "left" },
+          { to: "/kontakt", label: "Kontakt", position: "right" },
+        ],
       },
       footer: {
         style: "dark",
         links: [
-       
           {
             title: "Folge Uns",
             items: [
@@ -71,11 +76,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      docs:{
-        sidebar:{
+      docs: {
+        sidebar: {
           hideable: true,
-        }
-      }
+        },
+      },
     }),
 };
 

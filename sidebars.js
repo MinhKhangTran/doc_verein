@@ -30,14 +30,14 @@ const sidebars = {
     },
     "geschichte",
     {
-      type: 'link',
-      label: 'Gallerie', // The link label
-      href: '/gallerie', // The internal path
+      type: "link",
+      label: "Termine", // The link label
+      href: "/blog", // The internal path
     },
     {
-      type: 'link',
-      label: 'Kontakt', // The link label
-      href: '/kontakt', // The internal path
+      type: "link",
+      label: "Kontakt", // The link label
+      href: "/kontakt", // The internal path
     },
   ],
   // But you can create a sidebar manually
