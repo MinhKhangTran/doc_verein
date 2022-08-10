@@ -59,15 +59,15 @@ const config = {
             items: [
               {
                 label: "Instagram",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                href: "https://instagram.com",
               },
               {
                 label: "Facebook",
-                href: "https://discordapp.com/invite/docusaurus",
+                href: "https://facebook.com",
               },
               {
                 label: "TikTok",
-                href: "https://twitter.com/docusaurus",
+                href: "https://tiktok.com",
               },
             ],
           },
