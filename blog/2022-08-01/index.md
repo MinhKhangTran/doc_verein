@@ -4,8 +4,6 @@ title: Freundschaftsspiel gegen Bayern München Jugend
 tags: [fußball]
 ---
 
-![Fußball Match](./fußball-match.jpg)
-
 
 Anpfiff: 01.08.2022 um 17:30 Uhr
 
@@ -14,6 +12,8 @@ Preis: 15€
 Ort: Einstein-Bolzplatz
 
 <!--truncate-->
+
+![Fußball Match](./fußball-match.jpg)
 
 ## Freundschaftsspiel gegen Bayern München Jugend
 
