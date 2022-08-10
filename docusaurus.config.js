@@ -29,6 +29,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: 'Alle Termine',
+          blogSidebarCount: 'ALL',
         },
 
         theme: {
