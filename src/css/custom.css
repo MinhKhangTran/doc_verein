@@ -35,3 +35,96 @@
 .footer__link-item:hover {
   color: var(--ifm-color-primary-lightest);
 }
+
+/* Contact page */
+
+.kontakt__page {
+  margin-top: 2rem;
+}
+.kontakt__page h1 {
+  margin-bottom: 2rem;
+}
+.kontakt__page p {
+  margin: 0;
+}
+.kontakt__page--kontakt {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+@media screen and (min-width: 756px) {
+  .kontakt__page--kontakt {
+    display: grid;
+    gap: 2rem;
+    grid-template-areas:
+      "heading single1 single2"
+      ". single3 single4"
+      ". single5 single6"
+      ". single7 .";
+  }
+}
+.kontakt__page--kontakt h2 {
+  grid-area: heading;
+}
+.kontakt__single--1 {
+  grid-area: single1;
+}
+.kontakt__single--2 {
+  grid-area: single2;
+}
+.kontakt__single--3 {
+  grid-area: single3;
+}
+.kontakt__single--4 {
+  grid-area: single4;
+}
+.kontakt__single--5 {
+  grid-area: single5;
+}
+.kontakt__single--6 {
+  grid-area: single6;
+}
+.kontakt__single--7 {
+  grid-area: single7;
+}
+
+.kontakt__page--ort {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-block: 3rem 2rem;
+}
+@media screen and (min-width: 756px) {
+  .kontakt__page--ort {
+    display: grid;
+    gap: 2rem;
+    grid-template-areas:
+      "ortheading ortsingle1 ortsingle2"
+      ". ortsingle3 ortsingle4"
+      ". ortsingle5 ortsingle6";
+  }
+}
+.kontakt__page--ort h2 {
+  grid-area: ortheading;
+}
+.fake__h1 {
+  font-size: var(--ifm-h1-font-size);
+}
+.ort__single--1 {
+  grid-area: ortsingle1;
+}
+.ort__single--2 {
+  grid-area: ortsingle2;
+}
+.ort__single--3 {
+  grid-area: ortsingle3;
+}
+.ort__single--4 {
+  grid-area: ortsingle4;
+}
+.ort__single--5 {
+  grid-area: ortsingle5;
+}
+.ort__single--6 {
+  grid-area: ortsingle6;
+}
