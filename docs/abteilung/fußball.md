@@ -70,8 +70,8 @@ Fußball: 50 €
 
 ## Kontakt
 
-Abteilungsleiter: John Doe
+Abteilungsleiter: Peter Shaw
 
-Email: john.doe@example.com
+Email: peter.shaw@example.de
 
-Telefon: 123456789
+Telefon: 1234567892

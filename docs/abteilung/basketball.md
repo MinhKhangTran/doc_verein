@@ -70,8 +70,8 @@ Basketball: 50 €
 
 ## Kontakt
 
-Abteilungsleiter: John Doe
+Abteilungsleiter: Bob Andrews
 
-Email: john.doe@example.com
+Email: bob.andrews@example.de
 
-Telefon: 123456789
+Telefon: 1234567893

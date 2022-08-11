@@ -70,8 +70,8 @@ Tennis: 50 €
 
 ## Kontakt
 
-Abteilungsleiter: John Doe
+Abteilungsleiter: Anne Ortha
 
-Email: john.doe@example.com
+Email: anne.ortha@example.de
 
-Telefon: 123456789
+Telefon: 1234567897

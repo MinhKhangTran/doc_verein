@@ -70,8 +70,8 @@ Gewichtheben: 50 €
 
 ## Kontakt
 
-Abteilungsleiter: John Doe
+Abteilungsleiter: Clark Kent
 
-Email: john.doe@example.com
+Email: clark.kent@example.de
 
-Telefon: 123456789
+Telefon: 1234567896

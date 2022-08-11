@@ -70,8 +70,8 @@ Powerlifting: 50 €
 
 ## Kontakt
 
-Abteilungsleiter: John Doe
+Abteilungsleiter: Jane Doe
 
-Email: john.doe@example.com
+Email: jane.doe@example.de
 
-Telefon: 123456789
+Telefon: 1234567895

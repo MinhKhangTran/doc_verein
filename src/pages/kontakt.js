@@ -20,7 +20,7 @@ const kontaktArray = [
   {
     id: 4,
     title: "Taekwondo",
-    email: "jone.doe@example.de",
+    email: "john.doe@example.de",
   },
   {
     id: 5,

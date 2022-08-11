@@ -72,6 +72,6 @@ Taekwondo: 50 €
 
 Abteilungsleiter: John Doe
 
-Email: john.doe@example.com
+Email: john.doe@example.de
 
-Telefon: 123456789
+Telefon: 1234567894
